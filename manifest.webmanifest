@@ -1,0 +1,10 @@
+{
+  "name": "MENTAL — Calculate Faster",
+  "short_name": "MENTAL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090a0f",
+  "theme_color": "#090a0f",
+  "description": "A focused environment for mathematical speed training.",
+  "icons": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mental-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MENTAL bilingual mental-math practice app",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "@capacitor/core": "^8.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/cli": "^8.0.0"
+  }
+}

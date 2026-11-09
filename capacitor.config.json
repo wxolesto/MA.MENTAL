@@ -1,0 +1,8 @@
+{
+  "appId": "com.mental.app",
+  "appName": "MENTAL",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
